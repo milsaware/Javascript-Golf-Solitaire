@@ -11,6 +11,10 @@ Or it can be played on GitHub by [clicking here](https://ozboware.github.io/Java
 
 Just open the index file in your browser to play.
 
+## Controls
+
+Drag and drop to move cards.\nPress D to deal a new hand
+
 ## Screenshots
 
 ![Javascript golf solitaire screenshot 1](https://user-images.githubusercontent.com/95859352/177087147-53173c21-5b41-4e4e-9658-8f24b686a159.png)
