@@ -68,6 +68,11 @@ function gameStart(){
 	handsPlayed++;
 	gameArea.innerHTML = '';
 
+	let gameAreaSpan = document.createElement('span');
+	gameAreaSpan.id = 'gameAreaSpan';
+	gameAreaSpan.innerText = 'Press D to deal again';
+	gameArea.append(gameAreaSpan);
+
 	for(let i = 0; i < 7; i++){
 		let playBlock = document.createElement('div');
 		playBlock.className = 'cardBlock';
