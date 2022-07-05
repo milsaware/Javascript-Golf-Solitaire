@@ -31,6 +31,12 @@ body{
 	background: darkred;
 }
 
+#gameAreaSpan{
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
 .divider{
 	height: 155px;
 }
